@@ -1,3 +1,8 @@
+# Repository moved
+**This repository has been moved to [https://github.com/MaastrichtU-CDS/triplifier](https://github.com/MaastrichtU-CDS/triplifier)**
+
+You can update your origin using the following command (if you previously cloned the repository): `git remote set-url origin git@github.com:MaastrichtU-CDS/triplifier.git`.
+
 # Triplifier
 
 This repository creates the tooling project for the Triplifier.
